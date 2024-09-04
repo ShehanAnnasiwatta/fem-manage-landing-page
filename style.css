@@ -5,8 +5,8 @@
 
     --clr-primary-400: hsl(227, 39%, 23%);
 
-    --clr-nuetraL-100: hsl(233, 12%, 13%);
-    --clr-nuetraL-900: hsl(0, 0%, 98%);
+    --clr-nuetraL-900: hsl(232, 12%, 13%);
+    --clr-nuetraL-100: hsl(0, 0%, 100%);
 
     --ff-primary: "Be Vietnam Pro", sans-serif;
 
@@ -141,11 +141,11 @@ picture {
     background-color: var(--clr-accent-100);
 }
 
-.bg-nuetral-100 {
+.bg-neutral-100 {
     background-color: var(--clr-nuetraL-100);
 }
 
-.bg-nuetral-900 {
+.bg-neutral-900 {
     background-color: var(--clr-nuetraL-900);
 }
 
